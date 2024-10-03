@@ -2,7 +2,7 @@
   "name": "todoappproject",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://geomanuk20.gtihub.io/To-Do",
+  "homepage": "https://to-cn48jq3vq-geomanuk20s-projects.vercel.app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
